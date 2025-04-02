@@ -1,0 +1,5 @@
+[project]
+name = "wechat-decrypt"
+version = "0.1.0"
+description = "微信4.0数据库解密工具 | WeChat 4.0 Database Decryptor — memory-based key extraction, real-time message monitoring, MCP Server for Claude AI"
+requires-python = ">=3.10"
